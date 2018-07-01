@@ -320,7 +320,7 @@
   },
 
   "getAppBtn": {
-    "message": "從 Chrome 程式商店下載"
+    "message": "從 GitHub 下載"
   },
   "alreadyInstalledHint1": {
     "message": "已經有安裝 PttChrome 了嗎？"
@@ -332,7 +332,7 @@
     "message": "或是"
   },
   "alreadyInstalledHint4": {
-    "message": "把 http://changyuheng.github.io/PttChrome/ 加入 Chrome 書籤並由書籤開啓 PttChrome"
+    "message": "把 http://changyuheng.github.io/PttChrome/?ssh=true 加入 Chrome 書籤並由書籤開啓 PttChrome"
   },
 
   "input_sitePlaceholder": {

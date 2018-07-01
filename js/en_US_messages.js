@@ -323,7 +323,7 @@ locale.en_US = {
   },
 
   "getAppBtn": {
-    "message": "Get from Chrome Web Store"
+    "message": "Get from GitHub"
   },
   "alreadyInstalledHint1": {
     "message": "Already have PttChrome installed?"
@@ -335,7 +335,7 @@ locale.en_US = {
     "message": "OR"
   },
   "alreadyInstalledHint4": {
-    "message": "Add http://changyuheng.github.io/PttChrome/ to Chrome bookmarks and launch PttChrome from the bookmark"
+    "message": "Add http://changyuheng.github.io/PttChrome/?ssh=true to Chrome bookmarks and launch PttChrome from the bookmark"
   },
 
   "input_sitePlaceholder": {

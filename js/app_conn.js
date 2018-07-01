@@ -16,7 +16,7 @@ lib.AppConnection = function(spec) {
   };
 
   this.isConnected = false;
-  this.appId = 'hhnlfapopmaimdlldbknjdgekpgffmbo';
+  this.appId = 'eddpealgeelehondcphnhdldmlkelllh';
   this.appPort = null;
 };
 
