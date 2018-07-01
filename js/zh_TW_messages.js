@@ -332,7 +332,7 @@
     "message": "或是"
   },
   "alreadyInstalledHint4": {
-    "message": "把 http://iamchucky.github.io/PttChrome/ 加入 Chrome 書籤並由書籤開啓 PttChrome"
+    "message": "把 http://changyuheng.github.io/PttChrome/ 加入 Chrome 書籤並由書籤開啓 PttChrome"
   },
 
   "input_sitePlaceholder": {
