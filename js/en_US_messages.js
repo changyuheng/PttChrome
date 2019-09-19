@@ -323,7 +323,7 @@ locale.en_US = {
   },
 
   "getAppBtn": {
-    "message": "Get from GitHub"
+    "message": "Get it from GitHub"
   },
   "alreadyInstalledHint1": {
     "message": "Already have PttChrome installed?"
